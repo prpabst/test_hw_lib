@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\prpab\Documents\02 - Nidec\HW Git Lib\HW Git Lib.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\prpab\Documents\02 - Nidec\sandbox\hwlib\HW Git Lib.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=2
 UpdateMode=2
@@ -34,7 +34,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=72|Description0=183|Library Ref0=91|Library Path0=168|Footprint Ref0=107|Footprint Path0=184|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Footprint_Name0=106|Value0=70
+BrowserOrder_Visible=ID0=72|Description0=183|Library Ref0=91|Library Path0=168|Footprint Ref0=107|Footprint Path0=184|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Value0=70|Footprint_Name0=106
 [Table3]
 SchemaName=
 TableName=MLCC$
